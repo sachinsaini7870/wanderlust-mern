@@ -1,2 +1,23 @@
-# wanderlust-mern
-🌍 Wanderlust - Travel Journal App Full-stack Node.js/Express app with EJS templating. Features: photo uploads (Cloudinary), CRUD operations, Mapbox integration, real-time comments, user auth (Passport). MongoDB backend with Mongoose ODM. Modern CSS/JS frontend. #WebDev #NodeJS #MongoDB #PortfolioProject
+## 🚀 Wanderlust Travel Journal
+A feature-rich travel logging platform built with:
+
+### Frontend
+- EJS templating engine
+- Custom CSS styling
+- Interactive JavaScript
+- Mapbox GL JS for dynamic maps
+
+### Backend
+- Node.js + Express server
+- MongoDB with Mongoose
+- Session auth via Passport
+- Image processing with Cloudinary
+
+### Key Features
+📸 Photo upload & management  
+📍 Location mapping with Mapbox  
+✏️ CRUD operations for travel logs  
+💬 Real-time comment system  
+🔐 User authentication system  
+
+Built as a demonstration of full-stack JavaScript capabilities.
